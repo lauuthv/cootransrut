@@ -29,12 +29,9 @@ route::get('personas/create',[App\Http\Controllers\PersonasController::class, 'c
 route::post('personas/store',[App\Http\Controllers\PersonasController::class, 'store'])->name('persona.store');
 route::get('personas/edit/{id}',[App\Http\Controllers\PersonasController::class, 'edit'])->name('persona.edit');
 Route::put('personas/update/{id}', [App\Http\Controllers\PersonasController::class, 'update'])->name('persona.update');
-<<<<<<< HEAD
 Route::middleware(['auth'])->group(function () {
     Route::put('/perfil/completar', [App\Http\Controllers\Auth\RegisterController::class, 'update'])->name('formulario2.conductores');
 });
-=======
->>>>>>> 8fe58c7ea46eb09029d9a8ff19cf835d3e17d86e
 route::get('personas/destroy{id}',[App\Http\Controllers\PersonasController::class, 'destroy'])->name('persona.destroy');
 
 //2.NÓMINAS
