@@ -85,10 +85,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
             'Symfony\\Component\\ErrorHandler\\' => 31,
             'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\Console\\' => 26,
-<<<<<<< HEAD
             'Svg\\' => 4,
-=======
->>>>>>> origin/master
             'Spatie\\LaravelIgnition\\' => 23,
             'Spatie\\Ignition\\' => 16,
             'Spatie\\FlareClient\\' => 19,
