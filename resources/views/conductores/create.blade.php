@@ -23,7 +23,11 @@
             </div>
             <div class="form-group">
                 <label for="fechaMantenimiento">Fecha</label>
+<<<<<<< HEAD
                 <input type="date" class="form-control" name="fechaMantenimiento" id="fechaMantenimiento" required min="{{ \Carbon\Carbon::now()->addDay()->format('Y-m-d') }}">
+=======
+                <input type="date" class="form-control" name="fechaMantenimiento" id="fechaMantenimiento" required>
+>>>>>>> origin/master
                 <div class="invalid-feedback">Por favor ingrese la fecha.</div>
             </div>
             <div class="form-group">

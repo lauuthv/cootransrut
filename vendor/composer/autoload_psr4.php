@@ -40,12 +40,18 @@ return array(
     'Symfony\\Component\\ErrorHandler\\' => array($vendorDir . '/symfony/error-handler'),
     'Symfony\\Component\\CssSelector\\' => array($vendorDir . '/symfony/css-selector'),
     'Symfony\\Component\\Console\\' => array($vendorDir . '/symfony/console'),
+<<<<<<< HEAD
     'Svg\\' => array($vendorDir . '/phenx/php-svg-lib/src/Svg'),
+=======
+>>>>>>> origin/master
     'Spatie\\LaravelIgnition\\' => array($vendorDir . '/spatie/laravel-ignition/src'),
     'Spatie\\Ignition\\' => array($vendorDir . '/spatie/ignition/src'),
     'Spatie\\FlareClient\\' => array($vendorDir . '/spatie/flare-client-php/src'),
     'Spatie\\Backtrace\\' => array($vendorDir . '/spatie/backtrace/src'),
+<<<<<<< HEAD
     'Sabberworm\\CSS\\' => array($vendorDir . '/sabberworm/php-css-parser/src'),
+=======
+>>>>>>> origin/master
     'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
     'Ramsey\\Collection\\' => array($vendorDir . '/ramsey/collection/src'),
     'Psy\\' => array($vendorDir . '/psy/psysh/src'),
@@ -60,7 +66,10 @@ return array(
     'NunoMaduro\\Collision\\' => array($vendorDir . '/nunomaduro/collision/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'Mockery\\' => array($vendorDir . '/mockery/mockery/library/Mockery'),
+<<<<<<< HEAD
     'Masterminds\\' => array($vendorDir . '/masterminds/html5/src'),
+=======
+>>>>>>> origin/master
     'League\\MimeTypeDetection\\' => array($vendorDir . '/league/mime-type-detection/src'),
     'League\\Flysystem\\Local\\' => array($vendorDir . '/league/flysystem-local'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
@@ -81,11 +90,17 @@ return array(
     'GuzzleHttp\\' => array($vendorDir . '/guzzlehttp/guzzle/src'),
     'GrahamCampbell\\ResultType\\' => array($vendorDir . '/graham-campbell/result-type/src'),
     'Fruitcake\\Cors\\' => array($vendorDir . '/fruitcake/php-cors/src'),
+<<<<<<< HEAD
     'FontLib\\' => array($vendorDir . '/phenx/php-font-lib/src/FontLib'),
     'Faker\\' => array($vendorDir . '/fakerphp/faker/src/Faker'),
     'Egulias\\EmailValidator\\' => array($vendorDir . '/egulias/email-validator/src'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
     'Dompdf\\' => array($vendorDir . '/dompdf/dompdf/src'),
+=======
+    'Faker\\' => array($vendorDir . '/fakerphp/faker/src/Faker'),
+    'Egulias\\EmailValidator\\' => array($vendorDir . '/egulias/email-validator/src'),
+    'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
+>>>>>>> origin/master
     'Doctrine\\Inflector\\' => array($vendorDir . '/doctrine/inflector/lib/Doctrine/Inflector'),
     'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/src'),
     'Dflydev\\DotAccessData\\' => array($vendorDir . '/dflydev/dot-access-data/src'),
@@ -95,6 +110,9 @@ return array(
     'Cron\\' => array($vendorDir . '/dragonmantank/cron-expression/src/Cron'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
     'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
+<<<<<<< HEAD
     'Barryvdh\\DomPDF\\' => array($vendorDir . '/barryvdh/laravel-dompdf/src'),
+=======
+>>>>>>> origin/master
     'App\\' => array($baseDir . '/app', $vendorDir . '/laravel/pint/app'),
 );

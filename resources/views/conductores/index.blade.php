@@ -35,9 +35,14 @@
                     <td>{{$fila->valorPiezas}}</td>
                     <td>{{$fila->valorTotal}}</td>
                     <td>
+<<<<<<< HEAD
                     <a href="{{ route('mantenimiento.informe', $fila->idMantenimiento) }}" target="_blank" class="btn btn-sm btn-primary">Descargar</a>
                     </td>
 
+=======
+                        <a href="" target="_blank" class="btn btn-sm btn-primary">Descargar</a>
+                    </td>
+>>>>>>> origin/master
                     <td class="text-center">
                         <a href="{{route('mantenimiento.edit',$fila->idMantenimiento)}}" class="btn btn-sm btn-warning">Editar</a>
                         <a href="{{route('mantenimiento.destroy',$fila->idMantenimiento)}}" class="btn btn-sm btn-danger" onclick="return confirm('¿Estás seguro de eliminar el registro?')">Eliminar</a>

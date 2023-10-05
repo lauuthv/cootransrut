@@ -52,9 +52,12 @@ route::post('mantenimientos/store',[App\Http\Controllers\MantenimientosControlle
 route::get('mantenimientos/edit/{id}',[App\Http\Controllers\MantenimientosController::class, 'edit'])->name('mantenimiento.edit');
 route::get('mantenimientos/update/{id}',[App\Http\Controllers\MantenimientosController::class, 'update'])->name('mantenimiento.update');
 route::get('mantenimientos/destroy{id}',[App\Http\Controllers\MantenimientosController::class, 'destroy'])->name('mantenimiento.destroy');
+<<<<<<< HEAD
 Route::get('/mantenimiento/informe/{id}',[App\Http\Controllers\ComprobanteController::class, 'generarInforme'])->name('mantenimiento.informe');
 
 
+=======
+>>>>>>> origin/master
 /* Route::get('mantenimientos/download/{id}', 'MantenimientosController@download')->name('mantenimientos.download'); */
 
 //5. RUTAS

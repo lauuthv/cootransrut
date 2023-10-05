@@ -85,12 +85,18 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
             'Symfony\\Component\\ErrorHandler\\' => 31,
             'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\Console\\' => 26,
+<<<<<<< HEAD
             'Svg\\' => 4,
+=======
+>>>>>>> origin/master
             'Spatie\\LaravelIgnition\\' => 23,
             'Spatie\\Ignition\\' => 16,
             'Spatie\\FlareClient\\' => 19,
             'Spatie\\Backtrace\\' => 17,
+<<<<<<< HEAD
             'Sabberworm\\CSS\\' => 15,
+=======
+>>>>>>> origin/master
         ),
         'R' => 
         array (
@@ -117,7 +123,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             'Monolog\\' => 8,
             'Mockery\\' => 8,
+<<<<<<< HEAD
             'Masterminds\\' => 12,
+=======
+>>>>>>> origin/master
         ),
         'L' => 
         array (
@@ -150,7 +159,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'F' => 
         array (
             'Fruitcake\\Cors\\' => 15,
+<<<<<<< HEAD
             'FontLib\\' => 8,
+=======
+>>>>>>> origin/master
             'Faker\\' => 6,
         ),
         'E' => 
@@ -160,7 +172,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'D' => 
         array (
             'Dotenv\\' => 7,
+<<<<<<< HEAD
             'Dompdf\\' => 7,
+=======
+>>>>>>> origin/master
             'Doctrine\\Inflector\\' => 19,
             'Doctrine\\Common\\Lexer\\' => 22,
             'Dflydev\\DotAccessData\\' => 22,
@@ -176,7 +191,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'B' => 
         array (
             'Brick\\Math\\' => 11,
+<<<<<<< HEAD
             'Barryvdh\\DomPDF\\' => 16,
+=======
+>>>>>>> origin/master
         ),
         'A' => 
         array (
@@ -321,10 +339,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/symfony/console',
         ),
+<<<<<<< HEAD
         'Svg\\' => 
         array (
             0 => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg',
         ),
+=======
+>>>>>>> origin/master
         'Spatie\\LaravelIgnition\\' => 
         array (
             0 => __DIR__ . '/..' . '/spatie/laravel-ignition/src',
@@ -341,10 +362,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/spatie/backtrace/src',
         ),
+<<<<<<< HEAD
         'Sabberworm\\CSS\\' => 
         array (
             0 => __DIR__ . '/..' . '/sabberworm/php-css-parser/src',
         ),
+=======
+>>>>>>> origin/master
         'Ramsey\\Uuid\\' => 
         array (
             0 => __DIR__ . '/..' . '/ramsey/uuid/src',
@@ -402,10 +426,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/mockery/mockery/library/Mockery',
         ),
+<<<<<<< HEAD
         'Masterminds\\' => 
         array (
             0 => __DIR__ . '/..' . '/masterminds/html5/src',
         ),
+=======
+>>>>>>> origin/master
         'League\\MimeTypeDetection\\' => 
         array (
             0 => __DIR__ . '/..' . '/league/mime-type-detection/src',
@@ -488,10 +515,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/fruitcake/php-cors/src',
         ),
+<<<<<<< HEAD
         'FontLib\\' => 
         array (
             0 => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib',
         ),
+=======
+>>>>>>> origin/master
         'Faker\\' => 
         array (
             0 => __DIR__ . '/..' . '/fakerphp/faker/src/Faker',
@@ -504,10 +534,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
+<<<<<<< HEAD
         'Dompdf\\' => 
         array (
             0 => __DIR__ . '/..' . '/dompdf/dompdf/src',
         ),
+=======
+>>>>>>> origin/master
         'Doctrine\\Inflector\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Inflector',
@@ -546,10 +579,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         array (
             0 => __DIR__ . '/..' . '/brick/math/src',
         ),
+<<<<<<< HEAD
         'Barryvdh\\DomPDF\\' => 
         array (
             0 => __DIR__ . '/..' . '/barryvdh/laravel-dompdf/src',
         ),
+=======
+>>>>>>> origin/master
         'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
@@ -566,7 +602,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'App\\Http\\Controllers\\Auth\\RegisterController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/RegisterController.php',
         'App\\Http\\Controllers\\Auth\\ResetPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ResetPasswordController.php',
         'App\\Http\\Controllers\\Auth\\VerificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/VerificationController.php',
+<<<<<<< HEAD
         'App\\Http\\Controllers\\ComprobanteController' => __DIR__ . '/../..' . '/app/Http/Controllers/ComprobanteController.php',
+=======
+>>>>>>> origin/master
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\DespachosController' => __DIR__ . '/../..' . '/app/Http/Controllers/DespachosController.php',
         'App\\Http\\Controllers\\HomeController' => __DIR__ . '/../..' . '/app/Http/Controllers/HomeController.php',
@@ -574,6 +613,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'App\\Http\\Controllers\\NominasController' => __DIR__ . '/../..' . '/app/Http/Controllers/NominasController.php',
         'App\\Http\\Controllers\\PersonasController' => __DIR__ . '/../..' . '/app/Http/Controllers/PersonasController.php',
         'App\\Http\\Controllers\\RecorridosController' => __DIR__ . '/../..' . '/app/Http/Controllers/RecorridosController.php',
+<<<<<<< HEAD
         'App\\Http\\Controllers\\RotacionesController' => __DIR__ . '/../..' . '/app/Http/Controllers/RotacionesController.php',
         'App\\Http\\Controllers\\RutasController' => __DIR__ . '/../..' . '/app/Http/Controllers/RutasController.php',
         'App\\Http\\Controllers\\VehiculoController' => __DIR__ . '/../..' . '/app/Http/Controllers/VehiculoController.php',
@@ -584,6 +624,10 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'App\\Http\\Controllers\\secretariaController' => __DIR__ . '/../..' . '/app/Http/Controllers/secretariaController.php',
         'App\\Http\\Controllers\\talentohumanoController' => __DIR__ . '/../..' . '/app/Http/Controllers/talentohumanoController.php',
         'App\\Http\\Controllers\\tesoreriaController' => __DIR__ . '/../..' . '/app/Http/Controllers/tesoreriaController.php',
+=======
+        'App\\Http\\Controllers\\RutasController' => __DIR__ . '/../..' . '/app/Http/Controllers/RutasController.php',
+        'App\\Http\\Controllers\\VehiculosController' => __DIR__ . '/../..' . '/app/Http/Controllers/VehiculosController.php',
+>>>>>>> origin/master
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
@@ -598,9 +642,13 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Models\\despachos' => __DIR__ . '/../..' . '/app/Models/despachos.php',
         'App\\Models\\mantenimientos' => __DIR__ . '/../..' . '/app/Models/mantenimientos.php',
+<<<<<<< HEAD
         'App\\Models\\personas' => __DIR__ . '/../..' . '/app/Models/personas.php',
         'App\\Models\\recorridos' => __DIR__ . '/../..' . '/app/Models/recorridos.php',
         'App\\Models\\rotaciones' => __DIR__ . '/../..' . '/app/Models/rotaciones.php',
+=======
+        'App\\Models\\recorridos' => __DIR__ . '/../..' . '/app/Models/recorridos.php',
+>>>>>>> origin/master
         'App\\Models\\rutas' => __DIR__ . '/../..' . '/app/Models/rutas.php',
         'App\\Models\\vehiculos' => __DIR__ . '/../..' . '/app/Models/vehiculos.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
@@ -609,9 +657,12 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
+<<<<<<< HEAD
         'Barryvdh\\DomPDF\\Facade\\Pdf' => __DIR__ . '/..' . '/barryvdh/laravel-dompdf/src/Facade/Pdf.php',
         'Barryvdh\\DomPDF\\PDF' => __DIR__ . '/..' . '/barryvdh/laravel-dompdf/src/PDF.php',
         'Barryvdh\\DomPDF\\ServiceProvider' => __DIR__ . '/..' . '/barryvdh/laravel-dompdf/src/ServiceProvider.php',
+=======
+>>>>>>> origin/master
         'Brick\\Math\\BigDecimal' => __DIR__ . '/..' . '/brick/math/src/BigDecimal.php',
         'Brick\\Math\\BigInteger' => __DIR__ . '/..' . '/brick/math/src/BigInteger.php',
         'Brick\\Math\\BigNumber' => __DIR__ . '/..' . '/brick/math/src/BigNumber.php',
@@ -797,6 +848,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Doctrine\\Inflector\\Rules\\Word' => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Inflector/Rules/Word.php',
         'Doctrine\\Inflector\\RulesetInflector' => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Inflector/RulesetInflector.php',
         'Doctrine\\Inflector\\WordInflector' => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Inflector/WordInflector.php',
+<<<<<<< HEAD
         'Dompdf\\Adapter\\CPDF' => __DIR__ . '/..' . '/dompdf/dompdf/src/Adapter/CPDF.php',
         'Dompdf\\Adapter\\GD' => __DIR__ . '/..' . '/dompdf/dompdf/src/Adapter/GD.php',
         'Dompdf\\Adapter\\PDFLib' => __DIR__ . '/..' . '/dompdf/dompdf/src/Adapter/PDFLib.php',
@@ -866,6 +918,8 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Dompdf\\Renderer\\TableCell' => __DIR__ . '/..' . '/dompdf/dompdf/src/Renderer/TableCell.php',
         'Dompdf\\Renderer\\TableRowGroup' => __DIR__ . '/..' . '/dompdf/dompdf/src/Renderer/TableRowGroup.php',
         'Dompdf\\Renderer\\Text' => __DIR__ . '/..' . '/dompdf/dompdf/src/Renderer/Text.php',
+=======
+>>>>>>> origin/master
         'Dotenv\\Dotenv' => __DIR__ . '/..' . '/vlucas/phpdotenv/src/Dotenv.php',
         'Dotenv\\Exception\\ExceptionInterface' => __DIR__ . '/..' . '/vlucas/phpdotenv/src/Exception/ExceptionInterface.php',
         'Dotenv\\Exception\\InvalidEncodingException' => __DIR__ . '/..' . '/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php',
@@ -1500,6 +1554,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Faker\\Provider\\zh_TW\\Text' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php',
         'Faker\\UniqueGenerator' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/UniqueGenerator.php',
         'Faker\\ValidGenerator' => __DIR__ . '/..' . '/fakerphp/faker/src/Faker/ValidGenerator.php',
+<<<<<<< HEAD
         'FontLib\\AdobeFontMetrics' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/AdobeFontMetrics.php',
         'FontLib\\Autoloader' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/Autoloader.php',
         'FontLib\\BinaryStream' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/BinaryStream.php',
@@ -1536,6 +1591,8 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'FontLib\\WOFF\\File' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/WOFF/File.php',
         'FontLib\\WOFF\\Header' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/WOFF/Header.php',
         'FontLib\\WOFF\\TableDirectoryEntry' => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib/WOFF/TableDirectoryEntry.php',
+=======
+>>>>>>> origin/master
         'Fruitcake\\Cors\\CorsService' => __DIR__ . '/..' . '/fruitcake/php-cors/src/CorsService.php',
         'Fruitcake\\Cors\\Exceptions\\InvalidOptionException' => __DIR__ . '/..' . '/fruitcake/php-cors/src/Exceptions/InvalidOptionException.php',
         'GrahamCampbell\\ResultType\\Error' => __DIR__ . '/..' . '/graham-campbell/result-type/src/Error.php',
@@ -3367,6 +3424,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'League\\MimeTypeDetection\\GeneratedExtensionToMimeTypeMap' => __DIR__ . '/..' . '/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php',
         'League\\MimeTypeDetection\\MimeTypeDetector' => __DIR__ . '/..' . '/league/mime-type-detection/src/MimeTypeDetector.php',
         'League\\MimeTypeDetection\\OverridingExtensionToMimeTypeMap' => __DIR__ . '/..' . '/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php',
+<<<<<<< HEAD
         'Masterminds\\HTML5' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5.php',
         'Masterminds\\HTML5\\Elements' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Elements.php',
         'Masterminds\\HTML5\\Entities' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Entities.php',
@@ -3387,6 +3445,8 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Masterminds\\HTML5\\Serializer\\OutputRules' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Serializer/OutputRules.php',
         'Masterminds\\HTML5\\Serializer\\RulesInterface' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Serializer/RulesInterface.php',
         'Masterminds\\HTML5\\Serializer\\Traverser' => __DIR__ . '/..' . '/masterminds/html5/src/HTML5/Serializer/Traverser.php',
+=======
+>>>>>>> origin/master
         'Mockery\\Adapter\\Phpunit\\MockeryPHPUnitIntegration' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryPHPUnitIntegration.php',
         'Mockery\\Adapter\\Phpunit\\MockeryPHPUnitIntegrationAssertPostConditions' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryPHPUnitIntegrationAssertPostConditions.php',
         'Mockery\\Adapter\\Phpunit\\MockeryTestCase' => __DIR__ . '/..' . '/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCase.php',
@@ -5248,6 +5308,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Ramsey\\Uuid\\UuidInterface' => __DIR__ . '/..' . '/ramsey/uuid/src/UuidInterface.php',
         'Ramsey\\Uuid\\Validator\\GenericValidator' => __DIR__ . '/..' . '/ramsey/uuid/src/Validator/GenericValidator.php',
         'Ramsey\\Uuid\\Validator\\ValidatorInterface' => __DIR__ . '/..' . '/ramsey/uuid/src/Validator/ValidatorInterface.php',
+<<<<<<< HEAD
         'Sabberworm\\CSS\\CSSList\\AtRuleBlockList' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/CSSList/AtRuleBlockList.php',
         'Sabberworm\\CSS\\CSSList\\CSSBlockList' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/CSSList/CSSBlockList.php',
         'Sabberworm\\CSS\\CSSList\\CSSList' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/CSSList/CSSList.php',
@@ -5287,6 +5348,8 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Sabberworm\\CSS\\Value\\URL' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/Value/URL.php',
         'Sabberworm\\CSS\\Value\\Value' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/Value/Value.php',
         'Sabberworm\\CSS\\Value\\ValueList' => __DIR__ . '/..' . '/sabberworm/php-css-parser/src/Value/ValueList.php',
+=======
+>>>>>>> origin/master
         'SebastianBergmann\\CliParser\\AmbiguousOptionException' => __DIR__ . '/..' . '/sebastian/cli-parser/src/exceptions/AmbiguousOptionException.php',
         'SebastianBergmann\\CliParser\\Exception' => __DIR__ . '/..' . '/sebastian/cli-parser/src/exceptions/Exception.php',
         'SebastianBergmann\\CliParser\\OptionDoesNotAllowArgumentException' => __DIR__ . '/..' . '/sebastian/cli-parser/src/exceptions/OptionDoesNotAllowArgumentException.php',
@@ -5665,6 +5728,7 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Spatie\\LaravelIgnition\\Views\\BladeSourceMapCompiler' => __DIR__ . '/..' . '/spatie/laravel-ignition/src/Views/BladeSourceMapCompiler.php',
         'Spatie\\LaravelIgnition\\Views\\ViewExceptionMapper' => __DIR__ . '/..' . '/spatie/laravel-ignition/src/Views/ViewExceptionMapper.php',
         'Stringable' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Stringable.php',
+<<<<<<< HEAD
         'Svg\\CssLength' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/CssLength.php',
         'Svg\\DefaultStyle' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/DefaultStyle.php',
         'Svg\\Document' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/Document.php',
@@ -5693,6 +5757,8 @@ class ComposerStaticInitcc90b0059152afadb2558fa748540852
         'Svg\\Tag\\StyleTag' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/Tag/StyleTag.php',
         'Svg\\Tag\\Text' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/Tag/Text.php',
         'Svg\\Tag\\UseTag' => __DIR__ . '/..' . '/phenx/php-svg-lib/src/Svg/Tag/UseTag.php',
+=======
+>>>>>>> origin/master
         'Symfony\\Component\\Console\\Application' => __DIR__ . '/..' . '/symfony/console/Application.php',
         'Symfony\\Component\\Console\\Attribute\\AsCommand' => __DIR__ . '/..' . '/symfony/console/Attribute/AsCommand.php',
         'Symfony\\Component\\Console\\CI\\GithubActionReporter' => __DIR__ . '/..' . '/symfony/console/CI/GithubActionReporter.php',

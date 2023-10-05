@@ -10,6 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
+<<<<<<< HEAD
         'barryvdh/laravel-dompdf' => array(
             'pretty_version' => 'v2.0.1',
             'version' => '2.0.1.0',
@@ -19,6 +20,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> origin/master
         'brick/math' => array(
             'pretty_version' => '0.11.0',
             'version' => '0.11.0.0',
@@ -67,6 +70,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'dompdf/dompdf' => array(
             'pretty_version' => 'v2.0.3',
             'version' => '2.0.3.0',
@@ -76,6 +80,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> origin/master
         'dragonmantank/cron-expression' => array(
             'pretty_version' => 'v3.3.3',
             'version' => '3.3.3.0',
@@ -505,6 +511,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+<<<<<<< HEAD
         'masterminds/html5' => array(
             'pretty_version' => '2.8.1',
             'version' => '2.8.1.0',
@@ -514,6 +521,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> origin/master
         'mockery/mockery' => array(
             'pretty_version' => '1.6.6',
             'version' => '1.6.6.0',
@@ -619,6 +628,7 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
+<<<<<<< HEAD
         'phenx/php-font-lib' => array(
             'pretty_version' => '0.5.4',
             'version' => '0.5.4.0',
@@ -637,6 +647,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> origin/master
         'phpoption/phpoption' => array(
             'pretty_version' => '1.9.1',
             'version' => '1.9.1.0',
@@ -848,6 +860,7 @@
                 0 => '4.7.4',
             ),
         ),
+<<<<<<< HEAD
         'sabberworm/php-css-parser' => array(
             'pretty_version' => '8.4.0',
             'version' => '8.4.0.0',
@@ -857,6 +870,8 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+=======
+>>>>>>> origin/master
         'sebastian/cli-parser' => array(
             'pretty_version' => '2.0.0',
             'version' => '2.0.0.0',

@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "d70a2b102139bd6ce9dd147efee3f9b2",
     "packages": [
         {
@@ -84,6 +85,11 @@
             "time": "2023-01-12T15:12:49+00:00"
         },
         {
+=======
+    "content-hash": "e0ce5353653ac4aa921859375d213f73",
+    "packages": [
+        {
+>>>>>>> origin/master
             "name": "brick/math",
             "version": "0.11.0",
             "source": {
@@ -382,6 +388,7 @@
             "time": "2022-12-15T16:57:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "dompdf/dompdf",
             "version": "v2.0.3",
             "source": {
@@ -444,6 +451,8 @@
             "time": "2023-02-07T12:51:48+00:00"
         },
         {
+=======
+>>>>>>> origin/master
             "name": "dragonmantank/cron-expression",
             "version": "v3.3.3",
             "source": {
@@ -2010,6 +2019,7 @@
             "time": "2023-08-05T12:09:49+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "masterminds/html5",
             "version": "2.8.1",
             "source": {
@@ -2077,6 +2087,8 @@
             "time": "2023-05-10T11:58:31+00:00"
         },
         {
+=======
+>>>>>>> origin/master
             "name": "monolog/monolog",
             "version": "3.4.0",
             "source": {
@@ -2571,6 +2583,7 @@
             "time": "2023-02-08T01:06:31+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "phenx/php-font-lib",
             "version": "0.5.4",
             "source": {
@@ -2661,6 +2674,8 @@
             "time": "2022-09-06T12:16:56+00:00"
         },
         {
+=======
+>>>>>>> origin/master
             "name": "phpoption/phpoption",
             "version": "1.9.1",
             "source": {
@@ -3401,6 +3416,7 @@
             "time": "2023-04-15T23:01:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "sabberworm/php-css-parser",
             "version": "8.4.0",
             "source": {
@@ -3454,6 +3470,8 @@
             "time": "2021-12-11T13:40:54+00:00"
         },
         {
+=======
+>>>>>>> origin/master
             "name": "symfony/console",
             "version": "v6.3.2",
             "source": {

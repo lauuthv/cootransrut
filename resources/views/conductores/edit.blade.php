@@ -11,8 +11,14 @@
     </div>
     <div class="card-body">
         <form action="{{ route('mantenimiento.update', $mantenimiento->idMantenimiento) }}" method="PUT">
+<<<<<<< HEAD
         @csrf
         @method('PUT')
+=======
+            @csrf
+            @method('PUT')
+
+>>>>>>> origin/master
             <div class="form-group">
                 <label for="idv">Vehículo</label>
                 <select class="form-control" name="idv" id="idv" required>
@@ -27,7 +33,11 @@
 
             <div class="form-group">
                 <label for="fechaMantenimiento">Fecha</label>
+<<<<<<< HEAD
                 <input type="date" class="form-control" name="fechaMantenimiento" id="fechaMantenimiento" value="{{ $mantenimiento->fechaMantenimiento }}" min="{{ \Carbon\Carbon::now()->addDay()->format('Y-m-d') }}">
+=======
+                <input type="date" class="form-control" name="fechaMantenimiento" id="fechaMantenimiento" value="{{ $mantenimiento->fechaMantenimiento }}">
+>>>>>>> origin/master
             </div>
 
             <div class="form-group">
@@ -57,10 +67,16 @@
 
             <div class="form-group">
                 <label for="fotoFactura">Comprobante</label>
+<<<<<<< HEAD
                 <input type="file" class="form-control" name="fotoFactura" id="fotoFactura">
             </div>
 
 
+=======
+                <input type="text" class="form-control" name="fotoFactura" id="fotoFactura" value="{{ $mantenimiento->fotoFactura }}">
+            </div>
+
+>>>>>>> origin/master
             <button type="submit" class="btn btn-sm btn-primary">Actualizar</button>
         </form>
     </div>

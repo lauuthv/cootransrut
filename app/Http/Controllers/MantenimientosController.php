@@ -71,8 +71,16 @@ class MantenimientosController extends Controller
     {
         $mantenimiento = Mantenimientos::findOrFail($id);
 
+<<<<<<< HEAD
         $request->validate([
             'idv' => 'required',
+=======
+        $fechaActual = now()->toDateString();
+
+        $request->validate([
+            'idv' => 'required',
+            'fechaMantenimiento' => "required|date|after:$fechaActual",
+>>>>>>> origin/master
             'observaciones' => 'required',
             'valorManoobra' => 'required',
             'valorPiezas' => 'required',
@@ -82,6 +90,7 @@ class MantenimientosController extends Controller
 
         $mantenimiento->update([
            
+<<<<<<< HEAD
             'idVehiculo' => $request->input('idv'),
             'fechaMantenimiento' => $request->input('fechaMantenimiento'),
             'observaciones' => $request->input('observaciones'),
@@ -89,6 +98,15 @@ class MantenimientosController extends Controller
             'valorPiezas' => $request->input('valorPiezas'),
             'valorTotal' => $request->input('valorTotal'),
             'fotoFactura' => $request->input('fotoFactura'),
+=======
+            'idVehiculo' => $request['idv'],
+            'fechaMantenimiento' => $request['fechaMantenimiento'],
+            'observaciones' => $request['observaciones'],
+            'valorManoobra' => $request['valorManoobra'],
+            'valorPiezas' => $request['valorPiezas'],
+            'valorTotal' => $request['valorTotal'],
+            'fotoFactura' => $request['fotoFactura'],
+>>>>>>> origin/master
         ]);
 
         return redirect()->route('mantenimiento.index');
